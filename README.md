@@ -1,41 +1,22 @@
 <html>
-	<head>
-		<title>Lucas Miyazaki - olá </title>
-		<link type="text/css" rel="stylesheet" href="styles.css"/>
-		<meta charset="utf-8"/>
-	</head>
+	
+	 <main>
+	   <ul><h1> 宮崎</h1> </ul>
+	   <h1> Lucas Miyazaki </h1>
+	   
+
+
 	<body>
-	  
 	 <header> 
 	     <nav>
-          <ul> THIS IS FOR ME TO NAVEGATE INTO MY OWN PAGES: 
+          <ul> 
             <li><a href="index.html">Home</a></li>
             <li><a href="birds.html">Protected Birds</a></li>
             <li><a href="conservation.html">Conservation</a></li>
             <li><a href="sanctuaries.html">Bird Sanctuaries</a></li>
           </ul>
        </nav>
-   </header>
-	  
-	   <header> 
-	     <nav1>
-          <ul> THIS IS FOR ME TO NAVEGATE INTO MY OWN PAGES: 
-            <li><a href="index.html">Home</a></li>
-            <li><a href="birds.html">Protected Birds</a></li>
-            <li><a href="conservation.html">Conservation</a></li>
-            <li><a href="sanctuaries.html">Bird Sanctuaries</a></li>
-          </ul>
-       </nav1>
-   </header>
-	  
-	  
-	  
-	 
-	  
-	  <main>
-	   <ul><h1> 宮崎</h1> </ul>
-	   <h1> Lucas Miyazaki </h1>
-	  
+   </header> 
 	    
 	    <p>Olá! Tudo bem? </p>
 	    
