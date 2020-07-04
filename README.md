@@ -43,17 +43,6 @@
 </html>
 
 
-<body>
-	 <header> 
-	     <nav>
-          <ul> 
-            <li><a href="index.html">Home</a></li>
-            <li><a href="birds.html">Protected Birds</a></li>
-            <li><a href="conservation.html">Conservation</a></li>
-            <li><a href="sanctuaries.html">Bird Sanctuaries</a></li>
-          </ul>
-       </nav>
-   </header> 
 
 
 
