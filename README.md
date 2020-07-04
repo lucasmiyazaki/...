@@ -1,12 +1,3 @@
-# lucasmiyazaki
-
-
-index.html 
-
-
-
-
-<!DOCTYPE html>
 <html>
 	<head>
 		<title>Lucas Miyazaki - olá </title>
